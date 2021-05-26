@@ -1,3 +1,6 @@
+# MDK
+*.crf
+
 # Prerequisites
 *.d
 
