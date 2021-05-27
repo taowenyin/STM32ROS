@@ -52,6 +52,9 @@
 #include "stm32f1xx_hal_uart.h"
 #endif /* STM32F103xE */
 
+// 解决memcpy报错的问题
+#include <string.h>
+
 extern UART_HandleTypeDef huart3;
 
 class STM32Hardware {

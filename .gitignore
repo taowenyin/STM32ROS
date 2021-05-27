@@ -1,5 +1,10 @@
 # MDK
 *.crf
+*.axf
+*.htm
+*.lnp
+*.dep
+*.lst
 
 # Prerequisites
 *.d
